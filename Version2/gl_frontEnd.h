@@ -1,7 +1,6 @@
 //
 //  gl_frontEnd.h
 //
-//  Created by Jean-Yves Hervé on 2017-04-24.
 //
 
 #ifndef GL_FRONT_END_H
