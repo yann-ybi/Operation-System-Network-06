@@ -385,8 +385,6 @@ void cleanupAndQuit()
 		delete []grid[i];
 	delete []grid;
 	
-	// clear the traveler list
-	travelerList.clear();
 	exit(0);
 }
 
