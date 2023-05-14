@@ -1,7 +1,6 @@
 //
 //  gl_frontEnd.cpp
 //
-//  Created by Jean-Yves Hervé on 2017-04-24, revised 2019-11-19
 //
 
 #include <iostream>
