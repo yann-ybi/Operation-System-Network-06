@@ -2,8 +2,6 @@
 //  main.cpp
 //  GL travelers
 //
-//  Created by Jean-Yves Hervé
-//	C++ version eevised 2023-04-12
 
 // g++ -Wall -std=c++20 main.cpp gl_frontEnd.cpp -framework OpenGL -framework GLUT -o travel
 
