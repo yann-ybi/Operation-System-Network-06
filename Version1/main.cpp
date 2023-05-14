@@ -384,9 +384,10 @@ void cleanupAndQuit()
 	for (int i=0; i< num_rows; i++)
 		delete []grid[i];
 	delete []grid;
-	exit(0);
-	//	clear the traveler list
+	
+	// clear the traveler list
 	travelerList.clear();
+	exit(0);
 }
 
 void initializeApplication(void)
